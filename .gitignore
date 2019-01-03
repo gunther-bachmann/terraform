@@ -1,0 +1,12 @@
+bin/
+build_info/
+cache/
+doc/
+extensions/
+gems/
+specifications/
+terraform.tfstate.d/
+.kitchen/
+.terraform/
+*.org
+*.org_archive
