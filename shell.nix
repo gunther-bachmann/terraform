@@ -6,7 +6,7 @@ stdenv.mkDerivation {
         terraform
         terraform-providers.docker
         ruby
-        go_bootstrap
+        # go_bootstrap
     ];
     shellHook = ''
         # make sure no output is done, since direnv fails with direnv: error unmarshal() base64 decoding: illegal base64 data at input byte ?
