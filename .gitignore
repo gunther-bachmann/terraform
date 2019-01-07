@@ -11,3 +11,4 @@ terraform.tfstate.d/
 *.org
 *.org_archive
 .direnv/
+terraform.tfstate*
